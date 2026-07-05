@@ -38,4 +38,4 @@ It adds emerald-based equipment and introduces special villager interactions whe
 
 ## License
 
-[Custom License](https://raw.githubusercontent.com/PrimzalHorizon/emeraldgear-fabric/refs/heads/main/LICENSE.txt)
+[**Custom License**](https://raw.githubusercontent.com/PrimzalHorizon/emeraldgear-fabric/refs/heads/main/LICENSE.txt)
