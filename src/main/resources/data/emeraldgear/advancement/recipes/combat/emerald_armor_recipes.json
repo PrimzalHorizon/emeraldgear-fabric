@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_emerald": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:emerald"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_emerald"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "emeraldgear:emerald_chestplate",
+      "emeraldgear:emerald_leggings",
+      "emeraldgear:emerald_boots",
+      "emeraldgear:emerald_helmet",
+      "emeraldgear:emerald_sword",
+      "emeraldgear:emerald_axe",
+      "emeraldgear:emerald_pickaxe",
+      "emeraldgear:emerald_spear",
+      "emeraldgear:emerald_shovel",
+      "emeraldgear:emerald_hoe"
+    ]
+  }
+}

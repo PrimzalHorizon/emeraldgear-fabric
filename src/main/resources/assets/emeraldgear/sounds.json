@@ -1,0 +1,10 @@
+{
+  "armor.equip_emerald": {
+    "subtitle": "subtitles.item.armor.equip_emerald",
+    "sounds": [
+      "emeraldgear:armor/emerald_armor_equip_1",
+      "emeraldgear:armor/emerald_armor_equip_2",
+      "emeraldgear:armor/emerald_armor_equip_3"
+    ]
+  }
+}

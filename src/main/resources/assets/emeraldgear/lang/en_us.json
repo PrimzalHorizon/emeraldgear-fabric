@@ -1,0 +1,18 @@
+{
+  "item.emeraldgear.emerald_helmet": "Emerald Helmet",
+  "item.emeraldgear.emerald_chestplate": "Emerald Chestplate",
+  "item.emeraldgear.emerald_leggings": "Emerald Leggings",
+  "item.emeraldgear.emerald_boots": "Emerald Boots",
+  "item.emeraldgear.emerald_pickaxe": "Emerald Pickaxe",
+  "item.emeraldgear.emerald_shovel": "Emerald Shovel",
+  "item.emeraldgear.emerald_hoe": "Emerald Hoe",
+  "item.emeraldgear.emerald_axe": "Emerald Axe",
+  "item.emeraldgear.emerald_spear": "Emerald Spear",
+  "item.emeraldgear.emerald_sword": "Emerald Sword",
+  "item.emeraldgear.emerald_nautilus_armor": "Emerald Nautilus Armor",
+  "item.emeraldgear.emerald_horse_armor": "Emerald Horse Armor",
+
+  "subtitles.item.armor.equip_emerald": "Emerald armor clinks",
+
+  "tag.item.emeraldgear.emerald_armor": "Emerald Armor"
+}

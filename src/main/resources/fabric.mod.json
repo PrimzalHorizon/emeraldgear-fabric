@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "emeraldgear",
+  "version": "${version}",
+  "name": "Emerald Gear",
+  "description": "Adds emerald related equipment and some more awesome features",
+  "authors": [
+    "PrimzalHorizon"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/emeraldgear-fabric",
+    "sources": "https://github.com/PrimzalHorizon/emeraldgear-fabric/",
+    "issues": "https://github.com/PrimzalHorizon/emeraldgear-fabric/issues"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.primzal.emeraldgear.EmeraldGear"
+    ],
+    "client": [
+      "net.primzal.emeraldgear.client.Client"
+    ],
+    "server": [
+      "net.primzal.emeraldgear.server.Server"
+    ],
+    "modmenu": [
+      "net.primzal.emeraldgear.modmenu.ModMenu"
+    ]
+  },
+  "mixins": [
+    "mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": ">=${fabric_api_version}",
+    "minecraft": ["26.1", "26.1.1"]
+  },
+  "recommends": {
+    "cloth-config": ">=${cloth_config_version}",
+    "modmenu": ">=${modmenu_version}"
+  }
+}

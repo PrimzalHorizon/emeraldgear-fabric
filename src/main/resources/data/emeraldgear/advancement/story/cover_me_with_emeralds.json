@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "emeraldgear:emerald_chestplate"
+    },
+    "title": {
+      "text": "Cover Me with Emeralds"
+    },
+    "description": {
+      "text": "Emerald we are RICH!"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "minecraft:story/obtain_armor",
+  "criteria": {
+    "has_emerald_armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "emeraldgear:emerald_helmet",
+              "emeraldgear:emerald_chestplate",
+              "emeraldgear:emerald_leggings",
+              "emeraldgear:emerald_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 15
+  }
+}

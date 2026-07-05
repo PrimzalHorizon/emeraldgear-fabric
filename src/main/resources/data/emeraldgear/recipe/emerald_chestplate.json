@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "E E",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": [
+      "minecraft:emerald"
+    ]
+  },
+  "result": {
+    "id": "emeraldgear:emerald_chestplate",
+    "count": 1
+  },
+  "show_notification": true
+}
