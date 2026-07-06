@@ -14,9 +14,8 @@ It adds emerald-based equipment and introduces special villager interactions whe
 
 - **Random Villager Discounts**  
   Villagers offer discounted trades when:
-  - Wearing **any piece** of emerald armor  
-  - Wearing a **full set** of emerald armor  
-  - Holding an **emerald-based item**
+  - You are wearing atleast **one piece** of emerald armor  
+  - You are holding an **emerald-based item**
 
 ---
 
@@ -27,6 +26,13 @@ It adds emerald-based equipment and introduces special villager interactions whe
 3. Place the mod `emeraldgear.jar` and `fabric api.jar` file into your `mods` folder
 4. Launch Minecraft using Fabric
 5. Enjoy!
+
+---
+
+## 📬 Contact & Support
+
+* **Email:** [primzalhorizon@gmail.com](mailto:primzalhorizon@gmail.com)
+* **Bug Reports:** Please open an issue on our [Github Repository](https://github.com/PrimzalHorizon/emeraldgear-fabric/issues)
 
 ---
 
